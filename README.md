@@ -7,5 +7,5 @@ Please refer the paper if you are using the dataset.
 
 Zehang Lin, Zhenguo Yang*, Runwei Situ, Feitao Huang, Jianming Lv, Qing Li and Wenyin Liu, "Improving Maximum Classifier Discrepancy by Considering Joint Distribution for Domain Adaptation", WISE 2018.
 
-For any question regarding the dataset, please contact Dr. Zhenguo Yang (zhengyang5-c@my.cityu.edu.hk). The raw images can be obtained via sending a request email to us. Specifically, the researchers interested in the dataset should download and fill up the **Dataset Agreement Form** and send it back to us.
+For any question regarding the dataset, please contact Dr. Zhenguo Yang (zhengyang5-c@my.cityu.edu.hk). Specifically, the researchers interested in the dataset should download and fill up the **Dataset Agreement Form** and send it back to us.
 
