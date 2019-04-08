@@ -9,3 +9,4 @@ Zehang Lin, Zhenguo Yang*, Runwei Situ, Feitao Huang, Jianming Lv, Qing Li and W
 
 For any question regarding the dataset, please contact Dr. Zhenguo Yang (zhengyang5-c@my.cityu.edu.hk). Specifically, the researchers interested in the dataset should download and fill up the **Dataset Agreement Form** and send it back to us.
 
+The links of the images and texts are included and can be downloaded from this [URL](https://mail2gduteducn-my.sharepoint.com/:f:/g/personal/2111605074_mail2_gdut_edu_cn/EpsQSSzRn25Bj-Wb6wnb0E4BNFzrkSoGCB4-nApRlaW6Cg?e=lpkN4k).
